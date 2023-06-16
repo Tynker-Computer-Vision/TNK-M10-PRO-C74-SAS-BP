@@ -77,4 +77,4 @@ printOccurences(ages)
 print("Updated ages::::::::::::::::::::::::::::::::")
 
 # Call printOccurences() function with newAges to check updated results
-printOccurences(newAges)
+
