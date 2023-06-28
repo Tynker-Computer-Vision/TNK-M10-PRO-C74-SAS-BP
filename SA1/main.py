@@ -16,11 +16,11 @@ detector = FaceDetector()
 
 # Iterate through each image i.e img in the variable path
 
-    # Write a try block
-    
+    #try:
         # Print the img
         
-    # Except print error in reading
+    #except:
+        #print("Error in reading")
     
 
 
