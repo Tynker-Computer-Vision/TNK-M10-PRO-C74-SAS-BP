@@ -14,7 +14,7 @@ for img in os.listdir(path):
         # Check if img is not equal to .git i.e a wrong format image 
         
             # Get the age from the image path i.e img
-    
+
             #Append age to ages array
             
             # Read the image
@@ -27,3 +27,6 @@ for img in os.listdir(path):
     except:
         print("error in reading")
 
+# Convert ages to np.array
+
+# Print ages
